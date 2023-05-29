@@ -1,9 +1,0 @@
-JAutoClicker Update Changelog V1.8.0
-
-Bug Fixes
-*Fixed a bug : You can put the same keyboard key and keybind
-*Fixed a bug : GUI not symmetrical
-*Fixed a bug : When ESC key pressed when changing keyboard key and keybind, the color changed to green
-
-Feature Changes
-*Warning messages moved to bottom
